@@ -8,4 +8,11 @@ It is an internet based flight proximity warning system using ESP32.
 4. Each level breach the led blinking speed will change and giving one audio speech warning to alert the breach
 5. Working on ESP32 DveKit V1
 6. Internal ADC using for reproducing the audio warning (audio given as .h file in the form of arrays)
+
+**Note:**
+*// Used board version is ESP32 DevKit V1
+// used board option as DOIT ESP32 DevKit V1" or ESP32Dev module from esp32 board manger by Espressif Systems*
+
+
+
    
